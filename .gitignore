@@ -1,0 +1,13 @@
+# .gitignore
+
+# Ignore the 'data' directory
+/data/
+
+# Ignore the 'chroma' directory
+/chroma/
+
+# Ignore the '.venv' directory
+/.venv/
+
+# Ignore the '.env' file
+/.env
